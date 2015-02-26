@@ -31,6 +31,7 @@ adder(2, 6);
 // > 8
 {% endhighlight %}
 
+
 ### Hyde features
 
 In addition to the features of Poole, Hyde adds the following:
