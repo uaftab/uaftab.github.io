@@ -32,8 +32,7 @@
  */
 
 html {
-  //font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
