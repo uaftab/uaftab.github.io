@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Lemniscate
 tagline:          'Random Ramblings'
-description:      'UA <a href="http://uaftab.com" target="_blank">Website</a>'
+description:      'Umair's Random Ramblings'
 url:              http://uaftab.com
 baseurl:          /
 
@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/uaftab
+  
+website:
+  repo:           http://uaftab.com
