@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Who I am 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Currently I am pursuing my Masters at Concordia University, Montreal QC, Canada in ECE at the Embedded Systems Lab as a Researcher where I look into different ways of modelling embedded systems at various abstraction levels and GPUs specifically for GPGPU for pre-silicon evaluation for scheduling and power management policies.
 
-There are currently two themes built on Poole:
+Before that I did my bachelors from National University of Science and Technology – SEECS, Islamabad Pakistan in Electrical Engineering.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Some know me from my Senior Design Project, Heuristic Bowling Machine based Cricket Training System which won the Rectors Gold Medal for EE Class of 2013.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Things I do 
 
-## Setup
+To coalesce it into a few words I tinker,make and build things.
 
-Some fun facts about the setup of this project include:
+I have built a variety of things from a bowling machine, solar trackers, to mobile apps, web designs to short films and 3d Models.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## How to get a hold of me ? 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Its simple as clicking <a href="mailto:umair.ops@gmail.com?Subject=Hello!" target="_top">here</a> .
