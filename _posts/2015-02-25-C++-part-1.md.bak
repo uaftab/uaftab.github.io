@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Getting off the ground with C - Part 1
-weight: 1
 ---
 
 {% highlight c %}
