@@ -2,7 +2,6 @@
 layout: post
 title: Getting off the ground with C - Part 1
 date: 2015-02-25 00:30:00
-author: Amir Baniamerian
 ---
 
 {% highlight c %}
