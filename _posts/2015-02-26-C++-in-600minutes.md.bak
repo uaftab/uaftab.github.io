@@ -85,7 +85,6 @@ First step in C programming
 Amir Baniamerian, Concordia - March 2015
 */
 {% endhighlight %}
-
 In this tutorial we briefly review variables, pointers and functions in C.
 # Variables and Pointers
 Variables can be categorized in certain subgroups
@@ -99,7 +98,7 @@ Variables can be categorized in certain subgroups
 ## Types of variable
 
 In order to use a variable, it necessary to first define the type of the variable:
-{% endhighlight %} C++ 
+{% highlight c %}
 #include<math.h>
 main(){
     int var1;
@@ -113,7 +112,7 @@ For some constant values we use constant to
 2. If the value is changed, it affect all the program.
 
 #####Example:
-{% endhighlight %}C
+{% highlight c %}
     #define c1 = 9.8 // note that it is defined before main()
     main(){
         int a = 1;
@@ -138,7 +137,7 @@ Note that unlike constant variables can be changed in the program.
 ## Pointers
 When we write `c = a+b;`, we are indeed working with the variable names `a,b,c`. Another way (that is more flexible) to manipulate variables is to work with pointers. Pointers are the variables that contains _physical address_ of the other variables. The following example shows how a pointer is defined and used
 ##### Example
-{% endhighlight %} C++
+{% highlight c %}
 main(){
     int var = 1;        // define a variable
     int *pVar;          // define a poniter that can save the address of a int variable
@@ -151,7 +150,7 @@ It is very important to note that to change the value, we need to use `*pVar` in
 
 ## Array
 Array is a vector or a matrix of variable (for example an image is save in a matrix). 
-##### Exampel
+##### Example
 {% highlight c %}
 main(){
     int a;              // a single intiger 
@@ -196,15 +195,12 @@ struct strExm{
     printf("%s:%d", a.name, a.value);
 }
 {% endhighlight %}
-
 # Functions
 Generally a function is defined by its prototype. The prototype of the function is used to _declare_ a function. Generally, a prototype has three parts, namely: name, input and output arguments. For example:
 {% highlight c %}
 int exmFunc(double inVar1, flaot *pVar2);       // decleration a function
 {% endhighlight %}
-
 In the above example, we _declare_ the function `exmFunc` where its output is an integer, and it has two inputs; `inVar1` that is double and `pVar` which is a pointer to floats. A functions can be declared in the main program or saved in a individual header file. For instance, cosider the following header file that is the `vision.h` file.
-
 {% highlight c %}
     int scale(image *a, image *b);
     int invert(image *a, image *b);
@@ -217,7 +213,6 @@ In the above example, we _declare_ the function `exmFunc` where its output is an
     int dialate(image *a, image *b);
     int erode(image *a, image *b);
 {% endhighlight %}
-
 Note that in this case, we have a clean list of available functions in a file.
 
 ## Declare function in main program
@@ -237,11 +232,9 @@ int addFunc(int a, int b)               // declare the fuction
     printf("%d", resVar);
 }
 {% endhighlight %}
-
 ## Variables in the function
 Every variable defined in the function is a local variable. therefore, we can have two variable with the same name in function and main program
 We usually use this type of declaration in this course, where we declare and define (what it is doing) function in the same place. Consider the following example:
-
 {% highlight c %}
 #include <stdio.h>
 double addFunc(double a, double b)               // declare the fuction
@@ -257,10 +250,8 @@ double addFunc(double a, double b)               // declare the fuction
     printf("%d", resVar);
 }
 {% endhighlight %}
-
 ## Input argument
 One can pass a variable to a function _by value_ or _by reference_. Consider the following example which shows the passing by value. 
-
 {% highlight c %}
 #include <stdio.h>
 int addFunc(int a, int b)                // pass a and b by value
@@ -279,9 +270,7 @@ int addFunc(int a, int b)                // pass a and b by value
     printf("%d%d%d", a, b, c);                  // a and b do not change
 }
 {% endhighlight %}
-
 In the following example `a` is passed by reference and `b` by value.
-
 {% highlight c %}
 #include <stdio.h>
 int addFunc(int *a, int b)                // pass a and b by value
@@ -300,13 +289,10 @@ int addFunc(int *a, int b)                // pass a and b by value
     printf("%d%d%d", a, b, c);                  // a and b do not change
 }
 {% endhighlight %}
-
 Note that although the add function has a single output, it changes the values of `a` and `c`.
-
 ### Switch Cases
 One of powerful flow statement. It makes program more readable and also faster comparing with if-else (provided the number of cases is sufficiently large).
 A general format for switch case in C is shown in the following example
-
 {% highlight c %}
 #include<stdio.h>
 main(){
