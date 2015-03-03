@@ -26,3 +26,5 @@ Its simple as clicking <a href="mailto:umair.ops@gmail.com?Subject=Hello!" targe
 <a href="http://behance.net/uaftab">Behance Design Portfolio</a>
 
 <a href="http://uaftab.com">Website</a>
+
+<a href="http://uaftab.github.io">Blog</a>
