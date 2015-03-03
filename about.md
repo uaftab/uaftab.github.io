@@ -21,6 +21,8 @@ I have built a variety of things from a bowling machine, solar trackers, to mobi
 
 Its simple as clicking <a href="mailto:umair.ops@gmail.com?Subject=Hello!" target="_top">here</a>.
 
-<a href="http://github.com/uaftab">Github</a>
-<a href="http://behance.net/uaftab">Behance</a>
+<a href="http://github.com/uaftab">Github Projects</a>
+
+<a href="http://behance.net/uaftab">Behance Design Portfolio</a>
+
 <a href="http://uaftab.com">Website</a>
