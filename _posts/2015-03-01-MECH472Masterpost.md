@@ -18,7 +18,7 @@ C Programming Sessions Examples Download [Link] (https://github.com/uaftab/MECH-
 These posts have detailed informaton of basic programming syntax and paradigms and should help you in building logic and debuging error messages from your compiler.
 
 
-Upcoming Posts:
+Some Upcoming Posts to look forward to:
 
 * Reference for Functions in Image Processing.
 * Path Planning. 
