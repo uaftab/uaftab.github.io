@@ -8,6 +8,7 @@ This is the master post that has below all of the links all in place for the C P
 Also this is the Master discussion post, If you are having an issue outside of POD hours you can post a comment here. 
 
 C Programming Session: 
+
 * [Getting off the ground with C - Part 0](http://uaftab.github.io/2015/02/26/C++-in-600minutes/)
 * [Getting off the ground with C - Part 1](http://uaftab.github.io/2015/02/25/C++-part-1/)
 * [Getting off the ground with C - Part 2](http://uaftab.github.io/2015/02/25/C++-part-2/)
