@@ -3,33 +3,6 @@ layout: post
 title: C++ in 60 minutes 
 ---
 
-We will be covering the basics of C/C++. First things first if you dont have a compiler setup to follow then you can follow along with the tutorial on using : \
-
-{% highlight js %}
-#include <stdio.h>
-
-// *.dsw - project workspace
-
-// look at the C-tutorial on my web site
-
-// main is the name of the main program block
-int main(int argc, char* argv[])
-{ // beginning of function
-
-	int integer1;  // declare an integer
-
-	integer1 = 888*2; 
-
-	printf("integer1 = %d\n",integer1);
-
-	// print out hello world and end-of-line character
-	printf("Hello World!\n");
-
-	return 0; // end of the program block (function)
-
-} // end of function
-{% endhighlight %}
-
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole

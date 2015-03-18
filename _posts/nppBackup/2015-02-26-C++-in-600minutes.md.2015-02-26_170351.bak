@@ -8,6 +8,15 @@ We will be covering the basics of C/C++. First things first if you dont have a c
 {% highlight js %}
 #include <stdio.h>
 
+// running a program a program (2 steps)
+// 1. compile the *.cpp files into object files *.obj
+// 2. link the object files and libraries -> *.exe (executable)
+
+// build (make) -> compile + link
+
+// precompiled header error
+// settings -> C++ -> precompiled header -> automatic
+
 // *.dsw - project workspace
 
 // look at the C-tutorial on my web site
@@ -29,6 +38,8 @@ int main(int argc, char* argv[])
 
 } // end of function
 {% endhighlight %}
+
+
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
