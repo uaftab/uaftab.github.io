@@ -18,8 +18,7 @@ C Programming Sessions Examples Download [Link] (https://github.com/uaftab/MECH-
 These posts have detailed informaton of basic programming syntax and paradigms and should help you in building logic and debuging error messages from your compiler.
 
 
-Some Upcoming Posts to look forward to:
+UPDATES: 
 
-* Reference for Functions in Image Processing.
-* Path Planning. 
-* Coding PID Controllers in C. 
+* [Fix rtapi.h related errors] (http://uaftab.github.io/2015/03/17/vserror/)
+* [Examples for Accessing Arrays by Reference and Pointers] (https://github.com/uaftab/MECH-663-472-C-Examples/blob/master/ways_to_access_arrays.cpp) -> All of ways that can be used to access arrays.
